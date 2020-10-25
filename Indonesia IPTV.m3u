@@ -46,13 +46,15 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 http://10.16.100.203:8082/bangla/jamuna_720.m3u8
 #EXTINF:-1, Channel 24 Ebox
 http://tv2.ebox.live:8080/live/banae3.m3u8
-#EXTINF:-1, Nick Biosccope
-https://edge4.bioscopelive.com/hls/anonymous/RtKSXb_s-Vekk5hganUAhg/1603617982/nickelodeon_hi/index.m3u8
+#EXTINF:-1, Somoy Biosccope
+https://edge4.bioscopelive.com/hls/anonymous/3BqNeKAkiuW0Bk0vPsMzKQ/1603618560/shomoy_tv_mid/index.m3u8
 #EXTINF:-1, Sab TV Ebox2
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1,ARY Zindagi BongoBD
-https://live.bongobd.com/hls/1JR4xoRv2p4MWsuz0suRbw/1603618171/ary_zindagi_hi/index.m3u8
-#EXTINF:-1, Maasranga TV iBoxBD
-http://103.135.208.14:8082/51/index.m3u8
+#EXTINF:-1,Gaan Bangla BongoBD
+https://live.bongobd.com/hls/0XkPckmAZZj3TcALUz6X_w/1603618646/gaan_bangla_hi/index.m3u8
+#EXTINF:-1, ETV iBoxBD
+http://103.135.208.14:8082/65/index.m3u8?token=536971636c203df097253b51e40ba749d5129bc2-164fdb89b318e937deadfccfa04b53a7-1603625585-1603614785&remote=59.153.100.142
 #EXTINF:-1,Deepto TV DFlix
 http://tv.dflix.live:8082/8/mono.m3u8
+#EXTINF:-1, Channel I
+http://103.135.208.14:8082/6/index.m3u8
