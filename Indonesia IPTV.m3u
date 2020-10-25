@@ -42,4 +42,17 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:0 type="stream" channelId="50", Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-
+#EXTINF:-1,Jamuna TV ICC
+http://10.16.100.203:8082/bangla/jamuna_720.m3u8
+#EXTINF:-1, Channel 24 Ebox
+http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1, Nick Biosccope
+https://edge4.bioscopelive.com/hls/anonymous/RtKSXb_s-Vekk5hganUAhg/1603617982/nickelodeon_hi/index.m3u8
+#EXTINF:-1, Sab TV Ebox2
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+#EXTINF:-1,ARY Zindagi BongoBD
+https://live.bongobd.com/hls/1JR4xoRv2p4MWsuz0suRbw/1603618171/ary_zindagi_hi/index.m3u8
+#EXTINF:-1, Maasranga TV iBoxBD
+http://103.135.208.14:8082/51/index.m3u8
+#EXTINF:-1,Deepto TV DFlix
+http://tv.dflix.live:8082/8/mono.m3u8
