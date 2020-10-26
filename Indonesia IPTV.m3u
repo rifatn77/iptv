@@ -58,6 +58,8 @@ http://103.135.208.14:8082/65/index.m3u8?token=536971636c203df097253b51e40ba749d
 http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Peace TV Bangla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1, Peace TV Bangla ICC
+http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Peace TV English
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Peace TV Urdu
