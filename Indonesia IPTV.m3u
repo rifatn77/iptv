@@ -1,36 +1,35 @@
 #EXTM3U
-
-#EXTINF:-1 One
+#EXTINF:-1, One
 http://210.210.155.66/h/h143/01.m3u8
-#EXTINF:-1 GEM TV
+#EXTINF:-1, GEM TV
 http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1 HUM TV HD
+#EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
-#EXTINF:1 KBS World
+#EXTINF:1, KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 SBS International
+#EXTINF:-1, SBS International
 https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
-#EXTINF:-1 K+
+#EXTINF:-1, K+
 http://210.210.155.66/h/h08/01.m3u8
-#EXTINF:-1 K DRAMA
+#EXTINF:-1,K DRAMA
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
-#EXTINF:-1 Drama Sangat
+#EXTINF:-1, Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:-1 Discovery Asia
+#EXTINF:-1, Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 BBC Earth
+#EXTINF:-1, BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 Channel NewsAsia
+#EXTINF:-1, Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:1 BBC World News
+#EXTINF:1, BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:1 BBC Lifestyle
+#EXTINF:1, BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:1 Discovery
+#EXTINF:1, Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:1 NHK World Japan
+#EXTINF:1, NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:1 Animal Planet
+#EXTINF:1, Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Peace TV Bangla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
@@ -59,7 +58,7 @@ http://tv.dflix.live:8082/31/mono.m3u8
 #EXTINF:-1, Nagorik TV
 http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
-http://tv2.ebox.live:8080/live/banae3.m3u8
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
 http://tv.dflix.live:8082/5/mono.m3u8
 #EXTINF:-1, Independent
@@ -98,8 +97,20 @@ http://tv.dflix.live:8082/44/mono.m3u8
 http://tv2.ebox.live:8080/live/pk-tv.m3u8
 #EXTINF:-1, PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1, Ten Sports
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1, ESPN
+http://tv2.ebox.live:8080/live/sonyespn.m3u8
 #EXTINF:-1, Sony SIX
 http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1, Sony Ten 1
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1, Sony Ten 2
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1, Sony Ten 3
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1, Star Sports 1
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1, Star Sports 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:-1, Star Sports 3
@@ -108,8 +119,14 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 http://tv.dflix.live:8082/27/mono.m3u8
 #EXTINF:-1,  Star Sports Select 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1, Willow HD
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1, Sky Sports Cricket
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1, Sky Sports Mix
 http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1, Bein Sports 2
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
 #EXTINF:-1, Bein Sports 1
 http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
 #EXTINF:-1, Bein Sports English 11
@@ -125,6 +142,6 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1, AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, Disnep Channel
-http://otv.ftpbd.net/streams/122/index.m3u
+http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
