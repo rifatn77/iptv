@@ -4,6 +4,8 @@
 http://210.210.155.66/h/h143/01.m3u8
 #EXTINF:-1 GEM TV
 http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1 HUM TV HD
+http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 #EXTINF:1 KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 SBS International
@@ -116,5 +118,13 @@ http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
 http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
 #EXTINF:-1, Cartoon Network HD+
 http://tv.dflix.live:8082/79/mono.m3u8
-Nick
+#EXTINF:-1, Nick
 http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1, Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1, Disnep Channel
+http://otv.ftpbd.net/streams/122/index.m3u
+#EXTINF:-1, Cartoon Network
+http://otv.ftpbd.net/streams/123/index.m3u8
