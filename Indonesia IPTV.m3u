@@ -81,15 +81,15 @@ https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:1, BBC World News
+#EXTINF:-1, BBC World News
 https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:1, BBC Lifestyle
+#EXTINF:-1, BBC Lifestyle
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:1, Discovery
+#EXTINF:-1, Discovery
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:1, NHK World Japan
+#EXTINF:-1, NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:1, Animal Planet
+#EXTINF:-1, Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Cartoon Network HD+
 http://tv.dflix.live:8082/79/mono.m3u8
