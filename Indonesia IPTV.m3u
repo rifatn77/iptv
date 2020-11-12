@@ -5,16 +5,16 @@ http://210.210.155.66/h/h143/01.m3u8
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
-#EXTINF:1, KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 #EXTINF:-1, K+
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1,K DRAMA
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
 #EXTINF:-1, Drama Sangat
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:1, KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
 #EXTINF:-1, Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, BBC Earth
@@ -45,16 +45,16 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1, Sony Sab HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1,Deepto TV
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1, Sony Aath
 http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-1, Zee Bangla
-http://tv.dflix.live:8082/34/mono.m3u8
+http://10.16.100.204/hls/zee_bangla_720.m3u8
 #EXTINF:-1, Star Jalsha
 http://tv.dflix.live:8082/30/mono.m3u8
 #EXTINF:-1, Jalsha Movies
 http://tv.dflix.live:8082/31/mono.m3u8
+#EXTINF:-1,Deepto TV
+http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Nagorik TV
 http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
