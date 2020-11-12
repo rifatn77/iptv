@@ -1,60 +1,8 @@
 #EXTM3U
-#EXTINF:-1, One
-http://210.210.155.66/h/h143/01.m3u8
-#EXTINF:-1, GEM TV
-http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1, HUM TV HD
-http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
-#EXTINF:-1, K+
-http://210.210.155.66/h/h08/01.m3u8
-#EXTINF:-1,K DRAMA
-http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
-#EXTINF:-1, Drama Sangat
-https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
-#EXTINF:1, KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
-#EXTINF:-1, Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Channel NewsAsia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:1, BBC World News
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF:1, BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:1, Discovery
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:1, NHK World Japan
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:1, Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Peace TV Bangla
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1, Peace TV Bangla ICC
-http://10.16.100.207:8082/sports/peacetv.m3u8
-#EXTINF:-1, Peace TV English
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,Peace TV Urdu
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,Peace TV Chinese
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1, Sony Sab
-http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1, Sony Sab HD
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1, Sony Aath
-http://10.16.100.204/hls/sony_aath.m3u8
-#EXTINF:-1, Zee Bangla
-http://10.16.100.204/hls/zee_bangla_720.m3u8
-#EXTINF:-1, Star Jalsha
-http://tv.dflix.live:8082/30/mono.m3u8
-#EXTINF:-1, Jalsha Movies
-http://tv.dflix.live:8082/31/mono.m3u8
 #EXTINF:-1,Deepto TV
 http://tv.dflix.live:8082/8/mono.m3u8
+#EXTINF:-1, Sony Aath
+http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 #EXTINF:-1, Nagorik TV
 http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
@@ -93,6 +41,70 @@ http://10.16.100.203:8082/bangla/ekusheytv.m3u8
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1, BBC News
 http://tv.dflix.live:8082/44/mono.m3u8
+#EXTINF:-1, ALJAZEERA
+http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
+#EXTINF:-1, DW
+http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+#EXTINF:-1, Peace TV Bangla
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1, Peace TV Bangla ICC
+http://10.16.100.207:8082/sports/peacetv.m3u8
+#EXTINF:-1, Peace TV English
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,Peace TV Urdu
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1,Peace TV Chinese
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1, Sony Sab
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+#EXTINF:-1, Sony Sab HD
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1, One
+https://210.210.155.66/h/h143/01.m3u8
+#EXTINF:-1, GEM TV
+https://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1, HUM TV HD
+http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
+#EXTINF:-1, K+
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1,K DRAMA
+http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
+#EXTINF:-1, Drama Sangat
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/DramaSangat.m3u8
+#EXTINF:1, KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, SBS International
+https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
+#EXTINF:-1, Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, Channel NewsAsia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:1, BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF:1, BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:1, Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:1, NHK World Japan
+https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:1, Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, Cartoon Network HD+
+http://tv.dflix.live:8082/79/mono.m3u8
+#EXTINF:-1, Nicke
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1, Nickelodeon
+http://tv.dflix.live:8082/55/mono.m3u8
+#EXTINF:-1, Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1, Disnep Channel
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1, PK Sports
 http://tv2.ebox.live:8080/live/pk-tv.m3u8
 #EXTINF:-1, PTV Sports
@@ -133,15 +145,15 @@ http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
 http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1, Bein Sports FR 1 HD
 http://tv2.ebox.live:8080/live/bein-sports-fr-1.m3u8
-#EXTINF:-1, Cartoon Network HD+
-http://tv.dflix.live:8082/79/mono.m3u8
-#EXTINF:-1, Nick
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1, Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1, AniPlus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1, Disnep Channel
-http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1, Cartoon Network
-http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1, AD Sports 2
+http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
+#EXTINF:-1, AD Sports 3
+http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
+#EXTINF:-1, AD Sports 4
+http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
+#EXTINF:-1, Zee Bangla
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+#EXTINF:-1, Star Jalsha
+http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
+#EXTINF:-1, Jalsha Movies
+http://tv.dflix.live:8082/31/mono.m3u8
