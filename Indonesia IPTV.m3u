@@ -48,9 +48,9 @@ http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv.dflix.live:8082/13/mono.m3u8
 #EXTINF:-1, Channel 24
-http://tv.dflix.live:8082/5/mono.m3u8
+http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Independent
-http://tv.dflix.live:8082/12/mono.m3u8
+http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1, Somoy TV
 http://tv.dflix.live:8082/17/mono.m3u8
 #EXTINF:-1, Ekattor TV
@@ -165,19 +165,19 @@ http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 #EXTINF:-1, AD Sports 4
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
-#EXTINF:-1, ZEE Bangla
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
 #EXTINF:-1, ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1, Star Jalsha
+#EXTINF:-1, ZEE Bangla
+http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+#EXTINF:-1, Star Jalsha HD
 http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
 #EXTINF:-1, Akash Aath
 http://tv.dflix.live:8082/32/mono.m3u8
-#EXTINF:-1, Colors Bangla
-http://tv.dflix.live:8082/43/mono.m3u8
+#EXTINF:-1, Colors Bangla HD
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1, Ruposhi Bangla
 http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
-#EXTINF:-1, Jalsha Movies
+#EXTINF:-1, Jalsha Movies HD
 http://tv.dflix.live:8082/31/mono.m3u8
 #EXTINF:-1, ZEE Bangla Cinema
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
@@ -185,7 +185,7 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://tv.dflix.live:8082/96/mono.m3u8
 #EXTINF:-1, Zoom
 http://tv.dflix.live:8082/60/mono.m3u8
-#EXTINF:-1, Sony
+#EXTINF:-1, Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1, Colors HD
 http://tv2.ebox.live:8080/live/colors.m3u8
@@ -195,15 +195,13 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1, Sony MAX HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
-#EXTINF:-1, ZEE Cinema
+#EXTINF:-1, ZEE Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
 #EXTINF:-1, Star Gold HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
-#EXTINF:-1, Sony PIX
+#EXTINF:-1, Sony PIX HD
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1, Colors Infinity
+#EXTINF:-1, Colors Infinity HD
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
-#EXTINF:-1, HBO
-http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1, Romedy Now
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
