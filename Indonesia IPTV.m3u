@@ -27,9 +27,11 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Sony Sab
+#EXTINF:-1, Animal Planet English
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1, Sony SAB
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1, Sony Sab HD
+#EXTINF:-1, Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
@@ -63,6 +65,8 @@ http://tv2.ebox.live:8080/live/rtv.m3u8
 http://tv.dflix.live:8082/51/mono.m3u8
 #EXTINF:-1, GTV
 http://tv.dflix.live:8082/1/mono.m3u8
+#EXTINF:-1, SA TV
+http://tv.dflix.live:8082/15/mono.m3u8
 #EXTINF:-1, Channel I
 http://tv2.ebox.live:8080/live/ex-chi.m3u8
 #EXTINF:-1, ATN Bangla
@@ -71,6 +75,12 @@ http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, ETV
 http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+#EXTINF:-1, Desh TV
+http://tv.dflix.live:8082/9/mono.m3u8
+#EXTINF:-1, Boishakhi TV
+http://tv.dflix.live:8082/61/mono.m3u8
+#EXTINF:-1, BTV
+http://tv.dflix.live:8082/53/mono.m3u8
 #EXTINF:-1, Gaan Bangla
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1, BBC News
@@ -89,6 +99,8 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hssliv
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Peace TV Chinese
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1, Duronto TV
+http://tv.dflix.live:8082/10/mono.m3u8?
 #EXTINF:-1, Cartoon Network HD+
 http://tv.dflix.live:8082/79/mono.m3u8
 #EXTINF:-1, Nick
@@ -149,9 +161,42 @@ http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 #EXTINF:-1, AD Sports 4
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
-#EXTINF:-1, Zee Bangla
+#EXTINF:-1, ZEE Bangla
 http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+#EXTINF:-1, ZEE Bangla HD
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1, Star Jalsha
 http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
+#EXTINF:-1, Akash Aath
+http://tv.dflix.live:8082/32/mono.m3u8
+#EXTINF:-1, Colors Bangla
+http://tv.dflix.live:8082/43/mono.m3u8
 #EXTINF:-1, Jalsha Movies
 http://tv.dflix.live:8082/31/mono.m3u8
+#EXTINF:-1, ZEE Bangla Cinema
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+#EXTINF:-1, Sangeet Bangla
+http://tv.dflix.live:8082/96/mono.m3u8
+#EXTINF:-1, Zoom
+http://tv.dflix.live:8082/60/mono.m3u8
+#EXTINF:-1, Sony
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1, Colors HD
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1, ZEE TV HD
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1, Star Plus HD
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1, Sony MAX HD
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1, ZEE Cinema
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1, Star Gold HD
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1, Sony PIX
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1, Colors Infinity
+http://tv2.ebox.live:8080/live/color-Infinity.m3u8
+#EXTINF:-1, HBO
+http://tv2.ebox.live:8080/live/hbo.m3u8
+
