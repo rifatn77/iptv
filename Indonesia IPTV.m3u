@@ -138,7 +138,9 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1, Sony Ten 3
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1, Star Sports 1
-http://tv.dflix.live:8082/25/mono.m3u8
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1, Star Sports 1 Hindi
+http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1, Star Sports 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:-1, Star Sports 3
