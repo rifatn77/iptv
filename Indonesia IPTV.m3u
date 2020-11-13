@@ -151,10 +151,10 @@ http://tv2.ebox.live:8080/live/willow-cric.m3u8
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1, Sky Sports Mix
 http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
-#EXTINF:-1, Bein Sports 2
-http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
 #EXTINF:-1, Bein Sports 1
 http://tv2.ebox.live:8080/live/bein-sports-1.m3u8
+#EXTINF:-1, Bein Sports 2
+http://tv2.ebox.live:8080/live/bein-sports-2.m3u8
 #EXTINF:-1, Bein Sports English 11
 http://tv2.ebox.live:8080/live/bein-sports-eng-11.m3u8
 #EXTINF:-1, Bein Sports FR 1 HD
@@ -168,7 +168,7 @@ http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
 #EXTINF:-1, ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1, ZEE Bangla
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+http://10.16.100.204/hls/zee_bangla_720.m3u8
 #EXTINF:-1, Star Jalsha HD
 http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
 #EXTINF:-1, Akash Aath
