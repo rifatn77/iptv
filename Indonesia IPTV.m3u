@@ -43,6 +43,8 @@ http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-1,Deepto TV
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
+#EXTINF:-1,Deepto TV HD
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1, Nagorik TV
 http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
