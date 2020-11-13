@@ -29,6 +29,10 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Animal Planet English
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1, Animal Planet Hindi
+http://103.49.168.172:8081/ebox/in_animalplanet_hd/chunks.m3u8
+#EXTINF:-1, TLC
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1, Sony SAB
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1, Sony SAB HD
@@ -171,6 +175,8 @@ http://103.49.168.172:8081/ebox/in_starjalsha_hd/chunks.m3u8
 http://tv.dflix.live:8082/32/mono.m3u8
 #EXTINF:-1, Colors Bangla
 http://tv.dflix.live:8082/43/mono.m3u8
+#EXTINF:-1, Ruposhi Bangla
+http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
 #EXTINF:-1, Jalsha Movies
 http://tv.dflix.live:8082/31/mono.m3u8
 #EXTINF:-1, ZEE Bangla Cinema
@@ -199,4 +205,5 @@ http://tv2.ebox.live:8080/live/sony-pix.m3u8
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1, HBO
 http://tv2.ebox.live:8080/live/hbo.m3u8
-
+#EXTINF:-1, Romedy Now
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
