@@ -113,7 +113,7 @@ http://tv.dflix.live:8082/79/mono.m3u8
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1, Nickelodeon
 http://tv.dflix.live:8082/55/mono.m3u8
-#EXTINF:-1, Disnep Channel
+#EXTINF:-1, Disney Channel
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1, Cartoon Network
 http://otv.ftpbd.net/streams/123/index.m3u8
