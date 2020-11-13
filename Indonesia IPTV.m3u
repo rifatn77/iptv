@@ -30,6 +30,10 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, Sony Sab
+http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
+#EXTINF:-1, Sony Sab HD
+http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1,Deepto TV
 http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Sony Aath
@@ -86,10 +90,6 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hssliv
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Peace TV Chinese
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1, Sony Sab
-http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
-#EXTINF:-1, Sony Sab HD
-http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1, Cartoon Network HD+
 http://tv.dflix.live:8082/79/mono.m3u8
 #EXTINF:-1, Nick
