@@ -33,14 +33,14 @@ http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
-#EXTINF:-1,Deepto TV
-http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Sony Aath
 http://10.16.100.204/hls/sony_aath.m3u8
+#EXTINF:-1,Deepto TV
+http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Nagorik TV
 http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
-http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
+http://tv.dflix.live:8082/13/mono.m3u8
 #EXTINF:-1, Channel 24
 http://tv.dflix.live:8082/5/mono.m3u8
 #EXTINF:-1, Independent
