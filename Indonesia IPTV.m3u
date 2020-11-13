@@ -45,6 +45,8 @@ http://10.16.100.204/hls/sony_aath.m3u8
 http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Nagorik TV
 http://tv.dflix.live:8082/59/mono.m3u8
+#EXTINF:-1, Peace TV Bangla
+http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv.dflix.live:8082/13/mono.m3u8
 #EXTINF:-1, Channel 24
@@ -93,8 +95,6 @@ http://tv.dflix.live:8082/44/mono.m3u8
 http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
 #EXTINF:-1, DW
 http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
-#EXTINF:-1, Peace TV Bangla ICC
-http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Peace TV English
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1,Peace TV Urdu
