@@ -37,10 +37,12 @@ http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1, Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1, Sony SAB HD 2
+http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 #EXTINF:-1, Sony Aath
-http://10.16.100.204/hls/sony_aath.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/20.ts
 #EXTINF:-1,Deepto TV
 http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Nagorik TV
