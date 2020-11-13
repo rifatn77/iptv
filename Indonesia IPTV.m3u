@@ -48,9 +48,9 @@ http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv.dflix.live:8082/13/mono.m3u8
 #EXTINF:-1, Channel 24
-http://tv2.ebox.live:8080/live/ch24s1.m3u8
+http://tv.dflix.live:8082/5/mono.m3u8
 #EXTINF:-1, Independent
-http://10.16.100.203:8082/bangla/news_independent.m3u8
+http://tv.dflix.live:8082/12/mono.m3u8
 #EXTINF:-1, Somoy TV
 http://tv.dflix.live:8082/17/mono.m3u8
 #EXTINF:-1, Ekattor TV
@@ -78,7 +78,7 @@ http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, Bangla Vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, ETV
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+http://tv.dflix.live:8082/65/mono.m3u8
 #EXTINF:-1, Peace TV Bangla
 http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Desh TV
@@ -138,7 +138,7 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1, Sony Ten 3
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1, Star Sports 1
-http://tv2.ebox.live:8080/live/starsports-1.m3u8
+http://tv.dflix.live:8082/25/mono.m3u8
 #EXTINF:-1, Star Sports 2
 http://10.16.100.207:8082/sports/starsports2.m3u8
 #EXTINF:-1, Star Sports 3
@@ -146,7 +146,7 @@ http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1, Star Sports Select 1 HD
 http://tv.dflix.live:8082/27/mono.m3u8
 #EXTINF:-1,  Star Sports Select 2 HD
-http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+http://tv.dflix.live:8082/28/mono.m3u8
 #EXTINF:-1, Willow HD
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1, Sky Sports Cricket
