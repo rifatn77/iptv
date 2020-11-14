@@ -219,4 +219,6 @@ http://tv2.ebox.live:8080/live/sony-pix.m3u8
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1, Romedy Now
 http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
+#EXTINF:-1, Geo
+http://c1live.com:8081/c1-play/geosuper/chunks.m3u8
 
