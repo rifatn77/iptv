@@ -60,7 +60,7 @@ http://tv.dflix.live:8082/12/mono.m3u8
 #EXTINF:-1, Somoy TV
 http://tv.dflix.live:8082/17/mono.m3u8
 #EXTINF:-1, Ekattor TV
-http://tv.dflix.live:8082/11/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1, News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
