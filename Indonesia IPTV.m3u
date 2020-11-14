@@ -5,8 +5,11 @@ http://210.210.155.66/h/h143/01.m3u8
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1,K+
 http://210.210.155.66/h/h08/01.m3u8
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 #EXTINF:-1,K DRAMA
 http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
+#EXTINF:-1,K DRAMA
+http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 #EXTINF:-1, KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, SBS International
@@ -140,7 +143,7 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1, Sony Ten 3
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1, Star Sports 1
-http://tv2.ebox.live:8080/live/starsports-1.m3u8
+http://tv.dflix.live:8082/25/mono.m3u8
 #EXTINF:-1, Star Sports 1 Hindi
 http://tv2.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:-1, Star Sports 2
@@ -171,8 +174,6 @@ http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 #EXTINF:-1, AD Sports 4
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
-#EXTINF:-1, AD Sports 4
-http://10.16.100.203:8082/bangla/CHANNEL9.m3u8
 #EXTINF:-1, ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1, ZEE Bangla
