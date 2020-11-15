@@ -67,8 +67,6 @@ http://tv.dflix.live:8082/18/mono.m3u8
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1, NTV
 http://tv.dflix.live:8082/54/mono.m3u8
-#EXTINF:-1, Peace TV Bangla
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, RTV
 http://tv.dflix.live:8082/14/mono.m3u8
 #EXTINF:-1, ATN News
@@ -105,14 +103,16 @@ http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
 http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:-1, DW
 http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+#EXTINF:-1, Peace TV Bangla ICC
+http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Peace TV English
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1,Peace TV Urdu
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1,Peace TV Chinese
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1, Peace TV Bangla ICC
-http://10.16.100.207:8082/sports/peacetv.m3u8
+#EXTINF:-1, Peace TV Bangla
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, Duronto TV
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1, Cartoon Network HD+
@@ -205,7 +205,7 @@ http://tv2.ebox.live:8080/live/sonyhd.m3u8
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1, ZEE TV HD
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:-1, &TV HD
+#EXTINF:-1, &TV
 http://tv.dflix.live:8082/74/mono.m3u8
 #EXTINF:-1, Star Plus HD
 http://tv.dflix.live:8082/38/mono.m3u8
