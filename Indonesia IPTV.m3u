@@ -41,10 +41,10 @@ http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
-#EXTINF:-1, Sony Aath
-http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-1, Sony Aath HD
 http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
+#EXTINF:-1, Sony Aath
+http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-1,Deepto TV
 http://tv.dflix.live:8082/8/mono.m3u8?token=c62917c2f2fc05170cf8a65bf46b659cc4778e3b-d819d91d3e3e1f261d33aa9b7356d6b5-1605569510-1605558710&remote=10.12.55.96
 #EXTINF:-1,Deepto TV HD
