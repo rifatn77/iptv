@@ -48,25 +48,25 @@ http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1,Deepto TV
-http://103.135.208.14:8082/8/index.m3u8
+http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Nagorik TV
-http://103.135.208.14:8082/59/index.m3u8
+http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
-http://103.135.208.14:8082/13/index.m3u8
+http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Channel 24
-http://103.135.208.14:8082/5/index.m3u8
+http://tv.dflix.live:8082/5/mono.m3u8
 #EXTINF:-1, Independent
-http://103.135.208.14:8082/12/index.m3u8
+http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1, Somoy TV
-http://103.135.208.14:8082/17/index.m3u8
+http://10.16.100.205/hls/somoy_tv.m3u8
 #EXTINF:-1, Ekattor TV
-http://103.135.208.14:8082/11/index.m3u8
+http://tv.dflix.live:8082/11/mono.m3u8
 #EXTINF:-1, News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1, NTV
-http://103.135.208.14:8082/54/index.m3u8
+http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1, RTV
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, ATN News
@@ -76,25 +76,25 @@ http://tv2.ebox.live:8080/live/ex-chi.m3u8
 #EXTINF:-1, Maasranga TV
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1, GTV
-http://103.135.208.14:8082/1/index.m3u8
+http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1, SA TV
-http://103.135.208.14:8082/15/index.m3u8
+http://tv.dflix.live:8082/15/mono.m3u8
 #EXTINF:-1, ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, ETV
-http://103.135.208.14:8082/65/index.m3u8
+http://10.16.100.203:8082/bangla/ekusheytv.m3u8
 #EXTINF:-1, Bangla Vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, Desh TV
-http://103.135.208.14:8082/9/index.m3u8
+http://tv.dflix.live:8082/9/mono.m3u8
 #EXTINF:-1, Boishakhi TV
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1, BTV
-http://103.135.208.14:8082/53/index.m3u8
+http://tv.dflix.live:8082/53/mono.m3u8
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1, Gaan Bangla
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
+http://tv.dflix.live:8082/58/mono.m3u8
 #EXTINF:-1, ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1, ALJAZEERA
@@ -180,11 +180,13 @@ http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 #EXTINF:-1, AD Sports 4
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
 #EXTINF:-1, ZEE Bangla HD
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1, ZEE Bangla
 http://tv.dflix.live:8082/34/mono.m3u8
 #EXTINF:-1, Star Jalsha HD
-http://tv.dflix.live:8082/36/mono.m3u8
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1, Star Jalsha
+http://tv.dflix.live:8082/30/mono.m3u8
 #EXTINF:-1, Akash Aath
 http://tv.dflix.live:8082/32/mono.m3u8
 #EXTINF:-1, Colors Bangla HD
@@ -208,7 +210,7 @@ http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1, &TV
 http://tv.dflix.live:8082/74/mono.m3u8
 #EXTINF:-1, Star Plus HD
-http://tv.dflix.live:8082/38/mono.m3u8
+http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1, Sony MAX HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1, ZEE Cinema HD
