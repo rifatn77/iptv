@@ -94,7 +94,7 @@ http://tv.dflix.live:8082/53/mono.m3u8
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1, Gaan Bangla
-http://tv.dflix.live:8082/58/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1, ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1, ALJAZEERA
