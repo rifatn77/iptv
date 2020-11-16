@@ -52,7 +52,7 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
-http://tv2.ebox.live:8080/live/ch24s1.m3u8
+http://tv.dflix.live:8082/5/mono.m3u8?token=602403837717f048830dc5285c74ecd4b9822dfc-f64c35b258dfae9c710c4daa74fa2fc8-1605571228-1605560428&remote=10.12.55.96
 #EXTINF:-1, Independent
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1, Somoy TV
@@ -72,7 +72,7 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
 http://tv2.ebox.live:8080/live/ex-chi.m3u8
 #EXTINF:-1, Maasranga TV
-http://tv2.ebox.live:8080/live/maasranga.m3u8
+http://tv.dflix.live:8082/51/mono.m3u8?token=ecc315e1d477954b8c520242710e5331f98655ed-e8e8b5c7f09b939f4fdabc8d7e0c053f-1605571304-1605560504&remote=10.12.55.96
 #EXTINF:-1, GTV
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1, SA TV
@@ -187,8 +187,6 @@ http://10.16.100.204/hls/star_jalsha.m3u8
 http://10.16.100.204/hls/akash_aath_720.m3u8
 #EXTINF:-1, Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1, Ruposhi Bangla
-http://103.49.168.172:8081/ebox/in_ruposhibangla/chunks.m3u8
 #EXTINF:-1, Jalsha Movies HD
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1, ZEE Bangla Cinema
