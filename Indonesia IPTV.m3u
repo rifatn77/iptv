@@ -52,9 +52,9 @@ http://tv.dflix.live:8082/8/mono.m3u8
 #EXTINF:-1, Nagorik TV
 http://tv.dflix.live:8082/59/mono.m3u8
 #EXTINF:-1, Jamuna TV
-http://tv.dflix.live:8082/13/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
-http://tv.dflix.live:8082/5/mono.m3u8
+http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Independent
 http://tv.dflix.live:8082/12/mono.m3u8
 #EXTINF:-1, Somoy TV
@@ -62,7 +62,7 @@ http://tv.dflix.live:8082/17/mono.m3u8
 #EXTINF:-1, Ekattor TV
 http://tv.dflix.live:8082/11/mono.m3u8
 #EXTINF:-1, News 24
-http://tv.dflix.live:8082/18/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1, NTV
@@ -72,23 +72,23 @@ http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, ATN News
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
-http://tv.dflix.live:8082/6/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-chi.m3u8
 #EXTINF:-1, Maasranga TV
-http://tv.dflix.live:8082/51/mono.m3u8
+http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1, GTV
 http://tv.dflix.live:8082/1/mono.m3u8
 #EXTINF:-1, SA TV
 http://tv.dflix.live:8082/15/mono.m3u8
 #EXTINF:-1, ATN Bangla
-http://tv.dflix.live:8082/2/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, ETV
 http://tv.dflix.live:8082/65/mono.m3u8
 #EXTINF:-1, Bangla Vision
-http://tv.dflix.live:8082/3/mono.m3u8
+http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, Desh TV
 http://tv.dflix.live:8082/9/mono.m3u8
 #EXTINF:-1, Boishakhi TV
-http://tv.dflix.live:8082/61/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1, BTV
 http://tv.dflix.live:8082/53/mono.m3u8
 #EXTINF:-1,Channel 9
