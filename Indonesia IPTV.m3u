@@ -60,7 +60,7 @@ http://tv.dflix.live:8082/12/mono.m3u8
 #EXTINF:-1, Somoy TV
 http://tv.dflix.live:8082/17/mono.m3u8
 #EXTINF:-1, Ekattor TV
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+http://tv.dflix.live:8082/11/mono.m3u8
 #EXTINF:-1, News 24
 http://tv.dflix.live:8082/18/mono.m3u8
 #EXTINF:-1, DBC News
@@ -114,7 +114,7 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-
 #EXTINF:-1, Peace TV Bangla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, Duronto TV
-http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
+http://tv.dflix.live:8082/10/mono.m3u8
 #EXTINF:-1, Cartoon Network HD+
 http://tv.dflix.live:8082/79/mono.m3u8
 #EXTINF:-1, Nick
