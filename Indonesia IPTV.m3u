@@ -54,7 +54,7 @@ http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Independent
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1, Somoy TV
-http://10.16.100.205/hls/somoy_tv.m3u8
+http://103.135.208.14:8082/17/index.m3u8?token=80f23641099ac6e02d6b620e1753ad29996e4c97-86094eb8313368579ce11a513c10ade3-1605611374-1605600574&remote=59.153.100.142
 #EXTINF:-1, Ekattor TV
 http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1, News 24
