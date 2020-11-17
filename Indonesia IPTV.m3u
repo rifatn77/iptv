@@ -62,7 +62,7 @@ http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1, NTV
-http://10.16.100.205/hls/ntv_b_720.m3u8
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1, RTV
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, ATN News
