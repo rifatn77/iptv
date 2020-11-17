@@ -15,8 +15,6 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/p
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, BBC Earth
 https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, BBC Earth HD
-http://tv.dflix.live:8082/44/mono.m3u8?token=065b4c4558da90490e9bd961b6ea9f8c49044930-add8fa803ef59b6dc4d9617fb2b06025-1605569726-1605558926&remote=10.12.55.96
 #EXTINF:-1, National Geographic
 http://tv2.ebox.live:8080/live/natg.m3u8
 #EXTINF:-1, BBC Lifestyle
@@ -44,7 +42,7 @@ http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 #EXTINF:-1, Sony Aath
 http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-1,Deepto TV
-http://tv.dflix.live:8082/8/mono.m3u8?token=c62917c2f2fc05170cf8a65bf46b659cc4778e3b-d819d91d3e3e1f261d33aa9b7356d6b5-1605569510-1605558710&remote=10.12.55.96
+http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1, Nagorik TV
@@ -52,13 +50,13 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
-http://tv.dflix.live:8082/5/mono.m3u8?token=602403837717f048830dc5285c74ecd4b9822dfc-f64c35b258dfae9c710c4daa74fa2fc8-1605571228-1605560428&remote=10.12.55.96
+http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Independent
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1, Somoy TV
 http://10.16.100.205/hls/somoy_tv.m3u8
 #EXTINF:-1, Ekattor TV
-http://tv.dflix.live:8082/11/mono.m3u8?token=9fc3994439a5d492a6dd0bb6114ff0cbd4e7772c-1679ddc6ceefd19dd80f051d208b97ad-1605569599-1605558799&remote=10.12.55.96
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1, News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
@@ -72,11 +70,11 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
 http://tv2.ebox.live:8080/live/ex-chi.m3u8
 #EXTINF:-1, Maasranga TV
-http://tv.dflix.live:8082/51/mono.m3u8?token=ecc315e1d477954b8c520242710e5331f98655ed-e8e8b5c7f09b939f4fdabc8d7e0c053f-1605571304-1605560504&remote=10.12.55.96
+http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1, GTV
 http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1, SA TV
-http://tv.dflix.live:8082/15/mono.m3u8?token=1292fb7142a0f93b4c5fe83a293b90398257350b-2ded39e2d29a907e5ae14f1366062481-1605569632-1605558832&remote=10.12.55.96
+http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1, ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, ETV
@@ -84,11 +82,9 @@ http://10.16.100.203:8082/bangla/ekusheytv.m3u8
 #EXTINF:-1, Bangla Vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, Desh TV
-http://tv.dflix.live:8082/9/mono.m3u8?token=df2209aabe4e28fa7a2f80640fe8067d34c06364-7b72d712ce72329d4dbdf7920b7beb87-1605569655-1605558855&remote=10.12.55.96
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 #EXTINF:-1, Boishakhi TV
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
-#EXTINF:-1, BTV
-http://tv.dflix.live:8082/53/mono.m3u8?token=c62cc52cd89de2680880219a473632abb1eaa0df-4ecca7a293a5d7f2d99676c648611f1c-1605569683-1605558883&remote=10.12.55.96
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1, Gaan Bangla
@@ -112,9 +108,7 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-
 #EXTINF:-1, Peace TV Bangla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, Duronto TV
-http://tv.dflix.live:8082/10/mono.m3u8?token=c2f43ff4767029b8e79cdbddca748624b10e59b2-663bd11acb79693c2ab953caf6b5cf04-1605569780-1605558980&remote=10.12.55.96
-#EXTINF:-1, Cartoon Network HD+
-http://tv.dflix.live:8082/79/mono.m3u8?token=fa81f7e427c4debc44d1e9fa200eecd870229ee5-ef3f380bf37ed2c253dd3eccd11d9596-1605569797-1605558997&remote=10.12.55.96
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1, Nick
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1, Disney Channel
@@ -129,8 +123,6 @@ http://210.210.155.35/dr9445/h/h02/01.m3u8
 http://tv2.ebox.live:8080/live/pk-tv.m3u8
 #EXTINF:-1, PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:-1, PTV Sports ||
-http://tv.dflix.live:8082/73/mono.m3u8?token=a924ee3764e9df90b7b8b9ee4336ef4580c070f2-8cf5d55e7023c11c5e2292d21d258e45-1605569870-1605559070&remote=10.12.55.96
 #EXTINF:-1, Ten Sports
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:-1, ESPN
@@ -200,13 +192,15 @@ http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1, ZEE TV HD
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1, &TV
-http://tv.dflix.live:8082/74/mono.m3u8?token=d80c910e79f6f69051c927dfe0f0315c93b75623-4a5af93a7b5fdca2c092437c6b6e0f8d-1605570140-1605559340&remote=10.12.55.96
+http://103.49.168.172:8081/ebox/in_and_tv_hd/chunks.m3u8
 #EXTINF:-1, Star Plus HD
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1, Sony MAX HD
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1, ZEE Cinema HD
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1, &xplor
+http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
 #EXTINF:-1, Star Gold HD
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1, Sony PIX HD
