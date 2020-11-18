@@ -46,7 +46,7 @@ http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1, Nagorik TV
-http://10.16.100.203:8082/bangla/nagorik.m3u8
+http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
@@ -72,7 +72,7 @@ http://tv2.ebox.live:8080/live/ex-chi.m3u8
 #EXTINF:-1, Maasranga TV
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1, GTV
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
 #EXTINF:-1, SA TV
 http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1, ATN Bangla
