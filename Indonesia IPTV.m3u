@@ -50,7 +50,7 @@ http://10.16.100.203:8082/bangla/nagorik.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
-http://tv2.ebox.live:8080/live/ch24s1.m3u8
+http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
 #EXTINF:-1, Independent
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1, Somoy TV
@@ -62,7 +62,7 @@ http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1, NTV
-http://10.16.100.205/hls/ntv_b_720.m3u8
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1, RTV
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, ATN News
@@ -119,7 +119,7 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1, AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1, PK Sports
+#EXTINF:-1, K Cricket
 http://tv2.ebox.live:8080/live/pk-tv.m3u8
 #EXTINF:-1, PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
