@@ -52,7 +52,7 @@ http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
 http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
 #EXTINF:-1, Independent
-http://10.16.100.203:8082/bangla/news_independent.m3u8
+http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
 #EXTINF:-1, Somoy TV
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1, Ekattor TV
