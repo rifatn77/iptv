@@ -78,7 +78,7 @@ http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1, ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, ETV
-http://10.16.100.203:8082/bangla/ekusheytv.m3u8
+http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-1, Bangla Vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, Desh TV
