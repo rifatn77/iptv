@@ -43,12 +43,12 @@ http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 #EXTINF:-1, Sony Aath
 http://10.16.100.204/hls/sony_aath.m3u8
-#EXTINF:-1,Deepto
-http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1,Deepto TV
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
-#EXTINF:-1,Deepto TV HD
+#EXTINF:-1,Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1,Deepto TV HD
+http://103.132.180.245:8080/6/index.m3u8
 #EXTINF:-1, Nagorik TV
 http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1, Jamuna TV
@@ -72,7 +72,7 @@ http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, ATN News
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
-http://10.16.100.205/hls/ch_i.m3u8
+http://103.132.180.245:8080/5/index.m3u8
 #EXTINF:-1, Maasranga TV
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1, GTV
@@ -124,7 +124,7 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 #EXTINF:-1, AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, T Sports HD
-http://175.41.46.16:8081/hls/11.m3u8
+http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1, PK Sports
 http://tv2.ebox.live:8080/live/pk-tv.m3u8
 #EXTINF:-1, PTV Sports
