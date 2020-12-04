@@ -29,6 +29,8 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1, NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, Discovery Bangla
+https://ccntv.anytv.live/discoverybangla/index.m3u8
 #EXTINF:-1, TLC
 http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1, Sony SAB
@@ -52,7 +54,7 @@ http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
 http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Independent
-http://10.16.100.203:8082/bangla/news_independent.m3u8
+http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1, Somoy TV
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1, Ekattor TV
@@ -62,7 +64,7 @@ http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
 http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1, NTV
-http://10.16.100.205/hls/ntv_b_720.m3u8
+http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1, RTV
 http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, ATN News
