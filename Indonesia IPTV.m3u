@@ -50,7 +50,7 @@ http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
-http://10.16.100.205/hls/ch24.m3u8
+http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Independent
 http://10.16.100.203:8082/bangla/news_independent.m3u8
 #EXTINF:-1, Somoy TV
@@ -119,8 +119,6 @@ http://otv.ftpbd.net/streams/123/index.m3u8
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1, AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1, T Sports
-http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1, T Sports HD
 http://175.41.46.16:8081/hls/11.m3u8
 #EXTINF:-1, PK Sports
