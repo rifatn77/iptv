@@ -29,10 +29,6 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1, NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Discovery Bangla
-https://ccntv.anytv.live/discoverybangla/index.m3u8
-#EXTINF:-1, TLC
-http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1, Sony SAB
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1, Sony SAB HD
@@ -211,6 +207,8 @@ http://103.49.168.172:8081/ebox/in_xplore/chunks.m3u8
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1, Sony PIX HD
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1, TLC
+http://103.49.168.172:8081/ebox/in_tlc_hd/chunks.m3u8
 #EXTINF:-1, Colors Infinity HD
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1, Romedy Now
