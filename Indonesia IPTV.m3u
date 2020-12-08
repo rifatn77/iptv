@@ -33,6 +33,8 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1, Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1, Sony SAB HD
+http://dx3.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 #EXTINF:-1, Sony Aath HD
