@@ -74,9 +74,9 @@ http://103.132.180.245:8080/5/index.m3u8
 #EXTINF:-1, Maasranga TV
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1, GTV
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
+http://103.132.180.245:8080/1/index.m3u8
 #EXTINF:-1, SA TV
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+http://103.132.180.245:8080/4/index.m3u8
 #EXTINF:-1, ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, ETV
