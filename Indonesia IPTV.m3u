@@ -43,10 +43,10 @@ http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
 http://10.16.100.204/hls/sony_aath.m3u8
 #EXTINF:-1,Deepto TV
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
-#EXTINF:-1,Deepto TV
-http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1,Deepto TV HD
-http://103.132.180.245:8080/6/index.m3u8
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1,Deepto TV
+https://rhridoy136.shortcm.li/deeptotv.m3u8
 #EXTINF:-1, Nagorik TV
 http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1, Jamuna TV
@@ -58,7 +58,7 @@ http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1, Somoy TV
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1, Ekattor TV
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 #EXTINF:-1, News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
@@ -100,7 +100,7 @@ http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:-1, DW
 http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
 #EXTINF:-1, Peace TV Bangla ICC
-http://10.16.100.207:8082/sports/peacetv.m3u8
+https://rhridoy136.shortcm.li/peacetvbangla.m3u8
 #EXTINF:-1, Peace TV English
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1,Peace TV Urdu
