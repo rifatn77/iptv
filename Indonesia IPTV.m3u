@@ -25,6 +25,10 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Animal Planet English
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:-1, Discovery English
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:-1, Discovery Bangla
+http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1, Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1, NHK World Japan
@@ -58,7 +62,7 @@ http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1, Somoy TV
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1, Ekattor TV
-http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
 #EXTINF:-1, News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
@@ -99,8 +103,8 @@ http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
 http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:-1, DW
 http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
-#EXTINF:-1, Peace TV Bangla ICC
-https://rhridoy136.shortcm.li/peacetvbangla.m3u8
+#EXTINF:-1, Peace TV Urdu ICC
+http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Peace TV English
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1,Peace TV Urdu
