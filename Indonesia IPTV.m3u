@@ -62,7 +62,7 @@ http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1, Somoy TV
 http://103.49.168.172:8081/ebox/bd_somoy/chunks.m3u8
 #EXTINF:-1, Ekattor TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.ts
+http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
 #EXTINF:-1, News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
