@@ -37,8 +37,6 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 http://103.49.168.172:8081/ebox/in_sony_sab/chunks.m3u8
 #EXTINF:-1, Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1, Sony SAB HD
-http://dx3.gcdn.co/hindi-SONYSABHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1, HUM TV HD
 http://125.209.99.45:43568/BRN/HumTV.stream/playlist.m3u8
 #EXTINF:-1, Sony Aath HD
@@ -49,14 +47,12 @@ http://10.16.100.204/hls/sony_aath.m3u8
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1,Deepto TV HD
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
-#EXTINF:-1,Deepto TV
-https://rhridoy136.shortcm.li/deeptotv.m3u8
 #EXTINF:-1, Nagorik TV
 http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
-http://103.132.180.245:8080/7/index.m3u8
+http://tv2.ebox.live:8080/live/ch24s1.m3u8
 #EXTINF:-1, Independent
 http://103.132.180.245:8080/16/index.m3u8
 #EXTINF:-1, Somoy TV
@@ -103,6 +99,8 @@ http://103.49.168.172:8081/ebox/aljazeera_news/chunks.m3u8
 http://103.49.168.172:8081/ebox/bbc_news/chunks.m3u8
 #EXTINF:-1, DW
 http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+#EXTINF:-1, Peace TV Bangla
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, Peace TV Urdu ICC
 http://10.16.100.207:8082/sports/peacetv.m3u8
 #EXTINF:-1, Peace TV English
@@ -111,8 +109,6 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hssliv
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1,Peace TV Chinese
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1, Peace TV Bangla
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1, Duronto TV
 http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1, Nick
