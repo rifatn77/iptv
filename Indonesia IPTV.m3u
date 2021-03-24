@@ -35,20 +35,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
-#EXTINF:-1, HUM TV
-http://167.71.70.165:5432/miunyt/htv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIxIDY6NDg6MjkgUE0maGFzaF92YWx1ZT1QUmdqT1dDaWxVSkIrdVd2UnRVUkRnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1, HUM TV1
-http://80.243.180.72:5432/eos/humtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIxIDY6NTI6NTAgUE0maGFzaF92YWx1ZT1vdkF3Z2VycEU3azVremxDTW05MFFRPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1, HUM TV2
-http://78.129.241.19:8554/hera/humtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIxIDY6NTM6MzMgUE0maGFzaF92YWx1ZT1NYXZ1TXdkcHNPN004V3o5MDlyY05RPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1, HUM TV3
-http://geni.ktk.si:45323/otos/humtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIxIDY6NTQ6MDEgUE0maGFzaF92YWx1ZT1TS0NrVXdhTmx3cUNvRnBrR2VYak9nPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1, Urdu1
-http://80.243.180.72:5432/eos/urdu1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIxIDY6NTQ6NDEgUE0maGFzaF92YWx1ZT0vT3R5ZllHN1hZYVhIeWtxVTlibTlnPT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1, HarPal Geo
-https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
-#EXTINF:-1, HarPal Geo1
-http://45.58.139.242:9630/libris/geoentt/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9My8yMy8yMDIxIDY6NTc6NDUgUE0maGFzaF92YWx1ZT1VandqaC96QkhpK1ZLN0tBOXFaNVp3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1, Jamuna TV
