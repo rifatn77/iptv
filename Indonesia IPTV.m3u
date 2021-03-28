@@ -60,23 +60,23 @@ http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
 https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1, Maasranga TV
-http://tv2.ebox.live:8080/live/maasranga.m3u8
-#EXTINF:-1, GTV
-http://10.16.100.203:8082/bangla/gtv.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1, ATN Bangla
 http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, ETV
 http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-1, Bangla Vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
+#EXTINF:-1, Gaan Bangla
+http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1, Desh TV
 http://10.16.100.205/hls/des_tv_local480.m3u8
 #EXTINF:-1, Boishakhi TV
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
-#EXTINF:-1, Gaan Bangla
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1, GTV
+http://10.16.100.203:8082/bangla/gtv.m3u8
 #EXTINF:-1, Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1, ZEE Bangla HD
