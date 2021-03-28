@@ -68,7 +68,7 @@ http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-1, Bangla Vision
 http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, Gaan Bangla
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
+http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
 #EXTINF:-1, Desh TV
 http://10.16.100.205/hls/des_tv_local480.m3u8
 #EXTINF:-1, Boishakhi TV
