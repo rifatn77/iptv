@@ -93,16 +93,6 @@ http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1, Sangeet Bangla
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
-#EXTINF:-1, Nick
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1, Disney Channel
-http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1, Cartoon Network
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1, Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1, AniPlus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1, Colors HD
@@ -123,6 +113,16 @@ http://tv2.ebox.live:8080/live/sony-pix.m3u8
 http://tv2.ebox.live:8080/live/color-Infinity.m3u8
 #EXTINF:-1, HBO HD
 http://tv2.ebox.live:8080/live/hbo.m3u8
+#EXTINF:-1, Nick
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1, Disney Channel
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1, Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, T Sports HD
 http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1, PK Sports
