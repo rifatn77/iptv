@@ -37,10 +37,16 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1,Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1,Deepto TV 1
+http://209.126.120.153:80/hls/deeptotv.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
-http://10.16.100.205/hls/ch24.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1, Independent TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1, Somoy TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1, News 24
 http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
@@ -52,7 +58,7 @@ http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, ATN News
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
-http://10.16.100.205/hls/ch_i.m3u8
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1, Maasranga TV
 http://tv2.ebox.live:8080/live/maasranga.m3u8
 #EXTINF:-1, GTV
@@ -71,37 +77,12 @@ http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
-#EXTINF:-1, Peace TV Bangla
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1, Peace TV English
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1,Peace TV Urdu
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1,Peace TV Chinese
-https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SDh/chunklist.m3u8
-#EXTINF:-1, Nick
-http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1, Disney Channel
-http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1, Cartoon Network
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1, Animax
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1, AniPlus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
-#EXTINF:-1, Sony Aath HD
-http://otv.ftpbd.net/streams/127/index.m3u8
-https://bein-plutolive-vo.akamaized.net/playlist720bp.m3u8
 #EXTINF:-1, ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
-#EXTINF:-1, ZEE Bangla
-http://10.16.100.203:8082/bangla/zbangla_1stop_in.m3u8
 #EXTINF:-1, Star Jalsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-#EXTINF:-1, Star Jalsha
-http://10.16.100.203:8082/bangla/starjalsha_1stop_bd.m3u8
 #EXTINF:-1, Akash Aath
 http://10.16.100.207:8082/sports/akash_8_1stop.m3u8
 #EXTINF:-1, Colors Bangla HD
@@ -112,6 +93,16 @@ http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1, Sangeet Bangla
 http://10.16.100.207:8082/sports/sangeet_bangla.m3u8
+#EXTINF:-1, Nick
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1, Disney Channel
+http://otv.ftpbd.net/streams/122/index.m3u8
+#EXTINF:-1, Cartoon Network
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1, Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+#EXTINF:-1, AniPlus
+http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, Sony HD
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1, Colors HD
@@ -187,3 +178,11 @@ https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png ",BEIN SPORT HD 2
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="SPORTS",BEIN SPORT Xtra
+#EXTINF:-1, Peace TV Bangla
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
+#EXTINF:-1, Peace TV English
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-SDh/chunklist.m3u8
+#EXTINF:-1,Peace TV Urdu
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8
+#EXTINF:-1,Peace TV Chinese
+https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SDh/chunklist.m3u8
