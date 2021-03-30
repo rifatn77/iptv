@@ -33,6 +33,8 @@ http://otv.ftpbd.net/streams/121/index.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1, NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1, Sony SAB
+https://gintna100.tulix.tv/gin_live/sab-tv/df836bcec91d3f15c4bdfb52a5e480ee/6064626f/index.m3u8
 #EXTINF:-1, Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1,Deepto TV
