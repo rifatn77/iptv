@@ -80,7 +80,7 @@ http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=379127c34a43a8662
 #EXTINF:-1, Ekattor TV
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=a35057478c3c830c2f6a4f26579240bff967abed-df61772ab065ecc3bdf3148aa186e120-1617113816-1617103016
 #EXTINF:-1, Sony Aath
-http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
+http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1, Star Jalsha HD
