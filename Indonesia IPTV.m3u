@@ -25,10 +25,8 @@ https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Animal Planet English
 http://tv2.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:-1, Discovery English
+#EXTINF:-1, Discovery Bangla HD
 http://tv2.ebox.live:8080/live/discovery.m3u8
-#EXTINF:-1, Discovery Bangla
-http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1, Channel NewsAsia
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1, NHK World Japan
@@ -45,8 +43,10 @@ http://103.205.133.21/hls/deeptotv.m3u8
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1, Ekattor TV
+#EXTINF:-1, Ekattor TV HD
 http://103.205.133.21/hls/ekatoortv.m3u8
+#EXTINF:-1, Ekattor TV
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=a35057478c3c830c2f6a4f26579240bff967abed-df61772ab065ecc3bdf3148aa186e120-1617113816-1617103016
 #EXTINF:-1, Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1, Somoy TV
@@ -87,10 +87,6 @@ http://tv2.ebox.live:8080/live/channel9.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1, GTV
 http://172.16.50.2:8081/live/gazi/chunks.m3u8
-#EXTINF:-1, T Sports
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=379127c34a43a8662b10f9ca06fbca7d0f95f92e-98237df643d1a6025eaa50d1912b56aa-1617113672-1617102872
-#EXTINF:-1, Ekattor TV
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=a35057478c3c830c2f6a4f26579240bff967abed-df61772ab065ecc3bdf3148aa186e120-1617113816-1617103016
 #EXTINF:-1, Sony Aath
 http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1, ZEE Bangla HD
@@ -139,6 +135,8 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, T Sports HD
 http://cdn.naturalbd.com:8083/TSportsHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1, T Sports
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=379127c34a43a8662b10f9ca06fbca7d0f95f92e-98237df643d1a6025eaa50d1912b56aa-1617113672-1617102872
 #EXTINF:-1, PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1, Ten Sports
@@ -198,9 +196,3 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hssliv
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1,Peace TV Chinese
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SDh/chunklist.m3u8
-
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
-
-#EXTINF:-1 tvg-ID="" tvg-name="JAMUNA TV" tvg-logo="" group-title="",JAMUNA TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
-
