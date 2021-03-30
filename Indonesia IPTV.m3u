@@ -39,10 +39,14 @@ https://gintna100.tulix.tv/gin_live/sab-tv/df836bcec91d3f15c4bdfb52a5e480ee/6064
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
 #EXTINF:-1,Deepto TV
 http://10.16.100.203:8082/bangla/deeptotv.m3u8
+#EXTINF:-1,Deepto TV HD
+http://103.205.133.21/hls/deeptotv.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1, Ekattor TV
+http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1, Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1, Somoy TV
@@ -55,6 +59,8 @@ http://tv2.ebox.live:8080/live/dbc.m3u8
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1, RTV
 http://tv2.ebox.live:8080/live/rtv.m3u8
+#EXTINF:-1, Nagorik TV
+http://103.205.133.21/hls/nagorik.m3u8
 #EXTINF:-1, ATN News
 http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
@@ -77,6 +83,8 @@ http://10.16.100.205/hls/des_tv_local480.m3u8
 http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
+#EXTINF:-1 BTV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1, GTV
 http://172.16.50.2:8081/live/gazi/chunks.m3u8
 #EXTINF:-1, T Sports
@@ -190,3 +198,9 @@ https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-english-hssliv
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-urdu-hsslive-25f-16x9-SDh/chunklist.m3u8
 #EXTINF:-1,Peace TV Chinese
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-china-hsslive-25f-16x9-SDh/chunklist.m3u8
+
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/16.ts
+
+#EXTINF:-1 tvg-ID="" tvg-name="JAMUNA TV" tvg-logo="" group-title="",JAMUNA TV
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/13.ts
+
