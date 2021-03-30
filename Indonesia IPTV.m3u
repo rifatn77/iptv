@@ -76,6 +76,8 @@ http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1, GTV
+http://172.16.50.2:8081/live/gazi/chunks.m3u8
+#EXTINF:-1, T Sports
 http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=379127c34a43a8662b10f9ca06fbca7d0f95f92e-98237df643d1a6025eaa50d1912b56aa-1617113672-1617102872
 #EXTINF:-1, Ekattor TV
 http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=a35057478c3c830c2f6a4f26579240bff967abed-df61772ab065ecc3bdf3148aa186e120-1617113816-1617103016
