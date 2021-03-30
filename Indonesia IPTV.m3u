@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/one_logo-small_0.png",One
+http://210.210.155.66/h/h143/01.m3u8
+#EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/logos/gem_live_logo_green_rgb.png" ,GEM TV
+http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1,K+
+http://210.210.155.66/h/h08/01.m3u8
+#EXTINF:-1,K DRAMA
+http://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
 #EXTINF:-1, KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, SBS International
@@ -173,11 +181,6 @@ http://103.49.168.172:8081/ebox/adsports2/chunks.m3u8
 http://103.49.168.172:8081/ebox/adsports3/chunks.m3u8
 #EXTINF:-1, AD Sports 4
 http://103.49.168.172:8081/ebox/adsports4/chunks.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png",BEIN SPORT HD 1
-https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein2.png ",BEIN SPORT HD 2
-https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="SPORTS",BEIN SPORT Xtra
 #EXTINF:-1, Peace TV Bangla
 https://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1, Peace TV English
