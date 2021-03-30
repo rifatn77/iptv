@@ -3,10 +3,6 @@
 http://210.210.155.66/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/logos/gem_live_logo_green_rgb.png" GEM TV
 http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1,K+
-https://210.210.155.66/h/h08/01.m3u8
-#EXTINF:-1,K DRAMA
-https://210.210.155.35/session/d0b296ce-6a30-11e9-9180-b63a8ba36486/qwr9ew/s/s42/02.m3u8
 #EXTINF:-1, KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, SBS International
