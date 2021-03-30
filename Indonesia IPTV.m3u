@@ -76,7 +76,7 @@ http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1,Channel 9
 http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1, GTV
-http://10.16.100.203:8082/bangla/gtv.m3u8
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=379127c34a43a8662b10f9ca06fbca7d0f95f92e-98237df643d1a6025eaa50d1912b56aa-1617113672-1617102872
 #EXTINF:-1, Sony Aath
 http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1, ZEE Bangla HD
