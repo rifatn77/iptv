@@ -37,10 +37,10 @@ http://103.205.133.21/hls/deeptotv.m3u8
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1, Ekattor TV HD
-http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1, Ekattor TV
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=a35057478c3c830c2f6a4f26579240bff967abed-df61772ab065ecc3bdf3148aa186e120-1617113816-1617103016
+http://103.205.133.21/hls/ekatoortv.m3u8
+#EXTINF:-1, Ekattor TV HD
+http://10.16.100.205/hls/ekattor_hd_720.m3u8
 #EXTINF:-1, Independent TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1, Somoy TV
@@ -129,8 +129,6 @@ http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144
 http://210.210.155.35/dr9445/h/h02/01.m3u8
 #EXTINF:-1, T Sports HD
 http://cdn.naturalbd.com:8083/TSportsHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1, T Sports
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=379127c34a43a8662b10f9ca06fbca7d0f95f92e-98237df643d1a6025eaa50d1912b56aa-1617113672-1617102872
 #EXTINF:-1, PTV Sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1, Ten Sports
