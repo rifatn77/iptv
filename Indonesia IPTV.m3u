@@ -29,10 +29,10 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Sony SAB HD
 http://tv2.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:-1,Deepto TV
+http://10.16.100.203:8082/bangla/deeptotv.m3u8
 #EXTINF:-1,Deepto TV HD
 http://103.205.133.21/hls/deeptotv.m3u8
-#EXTINF:-1,Deepto TV
-http://cdn.naturalbd.com:8083/j-DeeptoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Jamuna TV
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1, Channel 24
@@ -46,17 +46,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, Somoy TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1, News 24
-http://cdn.naturalbd.com:8083/News24/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-news24-20.m3u8
 #EXTINF:-1, DBC News
-http://cdn.naturalbd.com:8083/DBCNews/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/dbc.m3u8
 #EXTINF:-1, NTV
 http://10.16.100.205/hls/ntv_b_720.m3u8
 #EXTINF:-1, RTV
-http://cdn.naturalbd.com:8083/RTV/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/rtv.m3u8
 #EXTINF:-1, Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
 #EXTINF:-1, ATN News
-http://cdn.naturalbd.com:8083/ATNNews/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-atnae.m3u8
 #EXTINF:-1, Channel I
 http://10.16.100.205/hls/ch_i.m3u8
 #EXTINF:-1, Maasranga TV
@@ -64,25 +64,25 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1, SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1, ATN Bangla
-http://cdn.naturalbd.com:8083/ATNBangla/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-atnbd1.m3u8
 #EXTINF:-1, ETV
 http://10.16.100.205/hls/21etv.m3u8
 #EXTINF:-1, Bangla Vision
-http://cdn.naturalbd.com:8083/BanglaVision/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/banae3.m3u8
 #EXTINF:-1, Gaan Bangla
-http://10.16.100.203:8082/bangla/ganbangla_1stop_hd.m3u8
+http://tv2.ebox.live:8080/live/ex-gan.m3u8
 #EXTINF:-1, Desh TV
 http://10.16.100.205/hls/des_tv_local480.m3u8
 #EXTINF:-1, Boishakhi TV
-http://cdn.naturalbd.com:8083/BoishakhiTV/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/ex-boishakhi.m3u8
 #EXTINF:-1,Channel 9
-http://cdn.naturalbd.com:8083/j-Channel9/tracks-v1a1/mono.m3u8
+http://tv2.ebox.live:8080/live/channel9.m3u8
 #EXTINF:-1 BTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1, GTV
 http://172.16.50.2:8081/live/gazi/chunks.m3u8
 #EXTINF:-1, Sony Aath
-http://cdn.naturalbd.com:8083/SonyAath/tracks-v1a1/mono.m3u8
+http://10.16.100.203:8082/bangla/sonyaath_1stop_in.m3u8
 #EXTINF:-1, ZEE Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1, Star Jalsha HD
