@@ -25,3 +25,5 @@ https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1, AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
+#EXTINF:-1, Peace TV Bangla
+http://199.223.252.162:8032/bangla_adaptive/index.m3u8
