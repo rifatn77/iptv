@@ -33,3 +33,5 @@ http://199.223.252.162:8032/bangla_adaptive/index.m3u8
 http://199.223.252.162:8032/urdu_adaptive/index.m3u8
 #EXTINF:-1, Peace TV English
 http://199.223.252.162:8032/english_adaptive/index.m3u8
+#EXTINF:-1, TVN
+https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
