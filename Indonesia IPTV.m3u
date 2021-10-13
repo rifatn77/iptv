@@ -21,7 +21,9 @@ https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1, NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Animax
+#EXTINF:-1, Animax Eng Sub
+https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1, Animax Indo Sub
 http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
 #EXTINF:-1, AniPlus
 http://210.210.155.35/dr9445/h/h02/01.m3u8
