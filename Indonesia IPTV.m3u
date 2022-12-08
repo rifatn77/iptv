@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1, Channel 1
+http://172.50.50.7:8080/hls/channel1.m3u8
+#EXTINF:-1, Channel 2
+http://172.50.50.7:8080/hls/channel2.m3u8
+#EXTINF:-1, Channel 3
+http://172.50.50.7:8080/hls/channel3.m3u8
+#EXTINF:-1, Channel 4
+http://172.50.50.7:8080/hls/channel4.m3u8
+#EXTINF:-1, Channel 5
+http://172.50.50.7:8080/hls/channel5.m3u8
+#EXTINF:-1, Channel 6
+http://172.50.50.7:8080/hls/channel6.m3u8
+#EXTINF:-1, Channel 7
+http://172.50.50.7:8080/hls/channel7.m3u8
+#EXTINF:-1, Channel 8
+http://172.50.50.7:8080/hls/channel8.m3u8
+#EXTINF:-1, Channel 9
+http://172.50.50.7:8080/hls/channel9.m3u8
+#EXTINF:-1, Channel 10
+http://172.50.50.7:8080/hls/channel10.m3u8
+#EXTINF:-1, Channel 11
+http://172.50.50.7:8080/hls/channel11.m3u8
+#EXTINF:-1, Channel 12
+http://172.50.50.7:8080/hls/channel12.m3u8
+#EXTINF:-1, Channel 13
+http://172.50.50.7:8080/hls/channel13.m3u8
+#EXTINF:-1, Channel 14
+http://172.50.50.7:8080/hls/channel14.m3u8
 #EXTINF:-1, KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, SBS International
@@ -7,17 +35,9 @@ https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/p
 http://210.210.155.66/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/logos/gem_live_logo_green_rgb.png" group-title="Singapore/Malaysia",GEM TV
 http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1, BBC Lifestyle
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF:-1, BBC Earth
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Discovery
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, Discovery Asia
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Animal Planet
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Channel NewsAsia
+#EXTINF:-1, CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1, NHK World Japan
 https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
