@@ -25,33 +25,5 @@ http://172.50.50.7:8080/hls/channel11.m3u8
 http://172.50.50.7:8080/hls/channel12.m3u8
 #EXTINF:-1, Channel 13
 http://172.50.50.7:8080/hls/channel13.m3u8
-#EXTINF:-1, Channel 14
-http://172.50.50.7:8080/hls/channel14.m3u8
-#EXTINF:-1, KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.onetvasia.com/sites/asia.setone/files/one_logo-small_0.png" group-title="Singapore/Malaysia",One
-http://210.210.155.66/h/h143/01.m3u8
-#EXTINF:-1 tvg-logo="https://www.gemtvasia.com/sites/hk.gemtv/files/logos/gem_live_logo_green_rgb.png" group-title="Singapore/Malaysia",GEM TV
-http://210.210.155.66/h/h19/01.m3u8
-#EXTINF:-1, Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1, CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1, NHK World Japan
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1, Animax Eng Sub
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
-#EXTINF:-1, Animax Indo Sub
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-#EXTINF:-1, AniPlus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1, Peace TV Bangla
-http://199.223.252.162:8032/bangla_adaptive/index.m3u8
-#EXTINF:-1, Peace TV Urdu
-http://199.223.252.162:8032/urdu_adaptive/index.m3u8
-#EXTINF:-1, Peace TV English
-http://199.223.252.162:8032/english_adaptive/index.m3u8
-#EXTINF:-1, TVN
-https://tvn-seezn.pip.cjenm.com/tvn/_definst_/s5/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2MjI4OTQ5OTUsInBhdGgiOiIvdHZuL19kZWZpbnN0Xy9zNSIsInVubyI6IjE2MjI4OTQ2OTU0MzQzNTU1NSIsImlhdCI6MTYyMjg5NDY5NX0.uTI9slMSRoAbTQ0zGWoEWepnugD9iC-LumyD4dUMJSE
